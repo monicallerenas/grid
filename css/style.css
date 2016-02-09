@@ -1,5 +1,12 @@
+header{
+	background:#F5A9D0; 
+}
+.genero{
+	width: 100%;
+	margin: 40px 10px 40px 20px;
+}
 .row1{
-	background: grey;
+	background:#F5A9D0;
 }
 ul{
 	list-style-type: none;
@@ -14,7 +21,6 @@ ul{
 	font-size: 14px;
 }
 .col-3{
-	background: #A9D0F5;
 	padding: 5px 5px 15px 20px;
 }
 h4{
