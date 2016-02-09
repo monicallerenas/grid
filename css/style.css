@@ -7,13 +7,19 @@ ul{
 	margin:0px 10px 30px 0px;
 }
 .inline{
-	margin: 0px 0px 30px 300px;
+	display: inline-block;
+	margin:80px 10px 20px 10px;
 }
-	.titulo{
+.titulo{
 	font-size: 14px;
 }
 .col-3{
 	background: #A9D0F5;
+	padding: 5px 5px 15px 20px;
+}
+h4{
+	text-align: center;
+	font-size: 18px;
 }
 .music{
 	border: 1px solid blue;
@@ -25,25 +31,49 @@ ul{
 }
 .discos{
 	text-align: center;
+	margin:20px 0px 10px 0px;
 }
 .discos .row {
 	margin-bottom: 10px;
 }
 .discos img {
 	background: #CEF6F5;
-	padding: 3px;
+	padding: 2px;
 	border: solid 1px #2E2EFE;	
-	width: 150px;
-	height: 150px;
+	width: 100%;
 }
 .row3{
 	color:grey;
 	border: solid #848484 1px;
 	background:#A4A4A4;
 }
+.columna{
+	background-color: white;
+	padding: 40px 0px 10px 0px;
+}
+hr{
+	border:solid 2px black;
+}
+.lateral{
+	display: inline-block;
+	margin:5px 5px 5px 5px;
+}
+.pod{
+	width:20px;
+	height: 20px;
+}
+h5{
+	font-size: 16px;
+	color:#8181F7;
+	display: inline-block;
+}
+h2{
+	margin:15px 0px 15px 0px;
+}
 p{
 	text-align: center;
-	font-size: 12px;
+	font-size: 18px;
+	color:#8181F7;
 }
 .ultimop{
 	text-align: center;
@@ -52,12 +82,12 @@ p{
 .links {
   text-align: center;
   margin: 15px 0 0 0;
-  font-size: 13px;
+  font-size: 14px;
 }	
 .copyright{
 	color:#424242;
 	text-align: center;
-	font-size: 12px;
+	font-size: 14px;
 }
 a{
 	font-size: 16px;
